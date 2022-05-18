@@ -1,0 +1,3 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-04-28T00:00:00.000,Guam,Unknown County,75.1,45491,34676,11759
+2022-04-28T00:00:00.000,Guam,Guam,75.1,108014,104467,49086

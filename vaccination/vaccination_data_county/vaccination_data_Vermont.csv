@@ -1,0 +1,16 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-04-28T00:00:00.000,Vermont,Lamoille County,73.5,18969,16063,9636
+2022-04-28T00:00:00.000,Vermont,Orleans County,73.5,17908,15922,9074
+2022-04-28T00:00:00.000,Vermont,Franklin County,73.5,20578,18385,10403
+2022-04-28T00:00:00.000,Vermont,Orange County,73.5,18548,15347,8195
+2022-04-28T00:00:00.000,Vermont,Bennington County,73.5,17831,15304,9101
+2022-04-28T00:00:00.000,Vermont,Addison County,73.5,29295,26124,16868
+2022-04-28T00:00:00.000,Vermont,Rutland County,73.5,46134,40546,23562
+2022-04-28T00:00:00.000,Vermont,Unknown County,73.5,152898,133927,83701
+2022-04-28T00:00:00.000,Vermont,Essex County,73.5,3343,2475,938
+2022-04-28T00:00:00.000,Vermont,Chittenden County,73.5,137239,121077,75849
+2022-04-28T00:00:00.000,Vermont,Windham County,73.5,34738,28931,16622
+2022-04-28T00:00:00.000,Vermont,Caledonia County,73.5,12412,10931,6127
+2022-04-28T00:00:00.000,Vermont,Grand Isle County,73.5,6679,5886,3687
+2022-04-28T00:00:00.000,Vermont,Washington County,73.5,30984,27485,17669
+2022-04-28T00:00:00.000,Vermont,Windsor County,73.5,35324,27597,13386

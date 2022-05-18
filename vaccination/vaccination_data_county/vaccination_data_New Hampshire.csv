@@ -1,0 +1,12 @@
+date,recip_state,recip_county,completeness_pct,administered_dose1_recip,series_complete_yes,booster_doses
+2022-04-28T00:00:00.000,New Hampshire,Grafton County,94.1,84932,67769,32554
+2022-04-28T00:00:00.000,New Hampshire,Carroll County,94.1,44481,35759,18122
+2022-04-28T00:00:00.000,New Hampshire,Sullivan County,94.1,32744,26910,12993
+2022-04-28T00:00:00.000,New Hampshire,Belknap County,94.1,48045,38257,18822
+2022-04-28T00:00:00.000,New Hampshire,Unknown County,94.1,82023,56401,19195
+2022-04-28T00:00:00.000,New Hampshire,Strafford County,94.1,103521,82959,37328
+2022-04-28T00:00:00.000,New Hampshire,Rockingham County,94.1,259735,208485,90515
+2022-04-28T00:00:00.000,New Hampshire,Cheshire County,94.1,58188,47451,19029
+2022-04-28T00:00:00.000,New Hampshire,Coos County,94.1,26569,21191,8492
+2022-04-28T00:00:00.000,New Hampshire,Hillsborough County,94.1,328814,264932,112178
+2022-04-28T00:00:00.000,New Hampshire,Merrimack County,94.1,126216,104121,50562
